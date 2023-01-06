@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//wxrj-r32-p75/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
