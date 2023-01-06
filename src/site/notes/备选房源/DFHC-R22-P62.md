@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//dfhc-r22-p62/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
