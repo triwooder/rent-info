@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//najd-r32-p80-b/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
