@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jxjn-r32-p83/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
