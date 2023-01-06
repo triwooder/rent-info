@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//bdgj-r22-p60/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
