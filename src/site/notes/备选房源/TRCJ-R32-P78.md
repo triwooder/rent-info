@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//trcj-r32-p78/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
