@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//qtcx-r32-p59/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
