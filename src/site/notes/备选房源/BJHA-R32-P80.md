@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//bjha-r32-p80/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
