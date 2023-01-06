@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jnhy-r22-p72/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
