@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//blth-r22-p90/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
