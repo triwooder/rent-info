@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//dxsd-r32-p82/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
