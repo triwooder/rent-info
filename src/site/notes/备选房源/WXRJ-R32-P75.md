@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rent-info/house","permalink":"/rent-info/house/"}
+{"dg-publish":true,"dg-permalink":"rent-info/house/wx1424","permalink":"/rent-info/house/wx1424/"}
 ---
 
 
