@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
+{"dg-publish":true,"dg-permalink":"rent-info/plot","permalink":"/rent-info/plot/"}
 ---
 
 
