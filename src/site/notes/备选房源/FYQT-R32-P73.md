@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//fyqt-r32-p73/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
