@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//blth-r32-p80-a/"}
+{"dg-publish":true,"dg-permalink":"rent-info","permalink":"/rent-info/"}
 ---
 
 
